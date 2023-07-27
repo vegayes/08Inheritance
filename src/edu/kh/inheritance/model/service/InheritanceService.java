@@ -107,13 +107,6 @@ public class InheritanceService {
 		
 		emp.move(); // 재정의한 (Employee)거 가져다가 씀.
 		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 
