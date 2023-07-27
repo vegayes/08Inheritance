@@ -23,7 +23,7 @@ public class InheritanceService {
 		p.setNationality("대한민국");
 		
 		System.out.println(p.getName());
-		System.out.println( p.getAge());
+		System.out.println(p.getAge());
 		System.out.println(p.getNationality());
 		
 		System.out.println("-".repeat(20));
@@ -82,7 +82,7 @@ public class InheritanceService {
 	public void ex2() {
 		
 		// Student 매개변수 5개짜리 생성자 이용해서 함.
-		Student std = new Student("김철수", 17, "한국",1,3);
+	Student std = new Student("김철수", 17, "한국",1,3);
 		
 	System.out.println(std.getName());
 	System.out.println(std.getAge());
